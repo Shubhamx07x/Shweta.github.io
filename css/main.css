@@ -2601,8 +2601,7 @@ footer .copyright span:last-child::after {
 #vid .center { 
 	
 	margin-left: 100px;
-	max-width: 100%;
-  	height: auto;
+	width: 500px;
 	display: block;
 	border: 5px solid #cc005f;
 }
